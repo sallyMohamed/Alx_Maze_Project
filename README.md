@@ -96,3 +96,7 @@ The goal of this project is to create a game in 3D using raycasting !
 14. Extra option
 
     Shadows, special lightning, etc… get creative!
+
+Author
+
+Sally Mohamed
