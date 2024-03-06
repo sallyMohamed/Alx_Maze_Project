@@ -1,5 +1,5 @@
-# alx-maze_project
-This is the alternative 'Maze project' for the 'Research &amp; Project ' project in the ALX Software Engineering program.
+# Alx Maze Project
+Project in the ALX Software Engineering program.
 
 # **Maze project**
 
