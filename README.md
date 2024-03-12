@@ -1,9 +1,9 @@
 # 3D Maze
-![1_2aMuMsqUbC9Dvb82lKId_w](https://github.com/sallyMohamed/Alx_Maze_Project/tree/master/Images/1_2aMuMsqUbC9Dvb82lKId_w.jpg) COVER PHOTO
+![1_2aMuMsqUbC9Dvb82lKId_w](https://github.com/sallyMohamed/Alx_Maze_Project/blob/master/Images/1_2aMuMsqUbC9Dvb82lKId_w.jpg) COVER PHOTO
 -----
 
 ### Creating a 3D maze with raycasting
-![retextured_1](https://github.com/sallyMohamed/Alx_Maze_Project/tree/master/Images/retextured_1.png)
+![retextured_1](https://github.com/sallyMohamed/Alx_Maze_Project/blob/master/Images/retextured_1.png)
 -----
 
 ### About SDL2
@@ -79,13 +79,13 @@ This maze game project is part of my portfolio for Holberton School, where I hav
 
 ### Project Summary
 
-![Screenshot(10)](https://github.com/sallyMohamed/Alx_Maze_Project/tree/master/Images/Screenshot(10).png)
+![Screenshot(10)](https://github.com/sallyMohamed/Alx_Maze_Project/blob/master/Images/Screenshot(10).png)
 
 This maze game project is part of my portfolio for Holberton School, where I have been honing my programming skills and expanding my knowledge in various areas of software development. It demonstrates my ability to design and develop interactive web applications, showcasing both my technical proficiency and creativity. 
 
 Thanks for taking your time to read if you have any questions, contribution or reviews you can contact me through my social media links below.
 
-![thank-you](https://github.com/sallyMohamed/Alx_Maze_Project/tree/master/Images/thank-you.gif)
+![thank-you](https://github.com/sallyMohamed/Alx_Maze_Project/blob/master/Images/thank-you.gif)
 -----
 
 ### Author/Developer
@@ -100,6 +100,7 @@ Thanks for taking your time to read if you have any questions, contribution or r
 -Alx Maze project landing page link
 
 https://sallymohamed.github.io/Maze-landingPage/
+https://sallymohamed.my.canva.site/index
 
 
 ### Resources
