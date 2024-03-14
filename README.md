@@ -99,8 +99,15 @@ Thanks for taking your time to read if you have any questions, contribution or r
 ### landing page of project
 -Alx Maze project landing page link
 
-https://sallymohamed.github.io/Maze-landingPage/
+
 https://sallymohamed.my.canva.site/index
+
+
+or
+
+https://sallymohamed.github.io/Maze-landingPage/
+
+
 
 
 ### Resources
